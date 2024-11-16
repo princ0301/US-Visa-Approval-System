@@ -1,4 +1,4 @@
-# US-Visa-Approval-System
+# 🛂 US Visa Approval System
 
 A machine learning-based system for predicting US visa approval outcomes. This project uses various machine learning models, with the K-Nearest Neighbors (KNN) model achieving a remarkable accuracy of 96.6%. It is built with FastAPI for a scalable backend and MongoDB for database storage.
 
